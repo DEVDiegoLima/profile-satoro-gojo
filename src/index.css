@@ -1,0 +1,22 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+
+body{
+  background-image: url("https://staticg.sportskeeda.com/editor/2023/09/e1c4f-16946408365109-1920.jpg");
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  height: 100vh;
+  align-items: center;
+  justify-content: center;
+}
+
